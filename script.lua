@@ -1,3 +1,8 @@
+┏┓┏┳━┳┓┏┓┏━━┓
+┃┗┛┃━┫┃┃┃┃╭╮┃
+┃┏┓┃━┫┗┫┗┫╰╯┃
+┗┛┗┻━┻━┻━┻━━┛
+
 -- Made By Phan phu#0901
 
 local placeId = game.PlaceId
